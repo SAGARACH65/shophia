@@ -1,5 +1,5 @@
 
-console.log('hey kishor');
+console.log('hey kishor feature2');
 function clickHandler(){
    document.getElementsByClassName("options-bot")[0].classList.add("show");
    let a= document.getElementsByClassName("options-bot")[0];
