@@ -1,4 +1,5 @@
 
+console.log('hey kishor');
 function clickHandler(){
    document.getElementsByClassName("options-bot")[0].classList.add("show");
    let a= document.getElementsByClassName("options-bot")[0];
